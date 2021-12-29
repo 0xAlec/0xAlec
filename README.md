@@ -1,7 +1,7 @@
 ### 👋 I'm Alec!
 - 🔭 Let's build a decentralized future.
 - 🌱 Working on projects in web3, previously engineering @ Coinbase
-- ⚡ Multichain = anti-maximalism, anti-walled gardens
+- ⚡ Multichain & anti-maximalism
 - 📫 Reach me on Twitter @0xAlec
 - 💬 Fun fact: I used to be a professional League of Legends player for Team Liquid + Cloud9!
 
