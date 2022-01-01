@@ -1,9 +1,7 @@
 ### 👋 I'm Alec!
-- 🔭 Let's build a decentralized future.
-- 🌱 Working on projects in web3, previously engineering @ Coinbase
-- ⚡ Multichain & anti-maximalism
-- 📫 Reach me on Twitter @0xAlec
-- 💬 Fun fact: I used to be a professional League of Legends player for Team Liquid + Cloud9!
+- 🔭 let's build an open and equitable future.
+- 🌱 previously engineering @ coinbase
+- 📫 reach me on twitter @0xAlec
 
 ### 📚 Required Reading
 - [Composability is Innovation](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/)
