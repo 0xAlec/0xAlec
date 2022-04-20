@@ -1,6 +1,5 @@
 ### 👋 hello!
-- 🔭 let's build a decentralized future
-- 🌱 computer science @ uc irvine, previously engineering @ coinbase
+- 🌱 previously engineering @ coinbase
 - 📫 reach me on [twitter](https://twitter.com/0xAlec) - dms open
 
 ### 📚 recommendations
